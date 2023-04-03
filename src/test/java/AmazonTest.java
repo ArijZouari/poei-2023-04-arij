@@ -28,4 +28,8 @@ public class AmazonTest {
         driver.get("https://www.google.com");
 
     }
+    @Test
+    public  void testYoutubr(){
+       driver.get("https://www.youtube.com");
+    }
 }
